@@ -17,3 +17,4 @@ Prefer not use var because of the in block space and functional scope
 */
 
 console.table([account_Id,account_Email,account_Password,account_City,account_State])
+console.log(typeof(account_Id))
