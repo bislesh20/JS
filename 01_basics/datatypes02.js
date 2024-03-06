@@ -40,6 +40,8 @@ let bioData= {
     Phone: 9476310651 
 }
 
+console.log(bioData)
+
 const myFunction = function(){
     console.log("print my name : ");
 }
